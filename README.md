@@ -1,2 +1,2 @@
-# Jscript
-aniruddha_javascript
+# JScript
+aniruddha_javascript repository
